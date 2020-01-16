@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c5671591-f6c7-4dac-8f47-1634b6d2476b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\Users\redhood\3D Objects\repository" />
+        <option name="userSettingsFile" value="C:\Users\redhood\3D Objects\maven\apache-maven-3.6.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WQsrAV0dqH2FEFYDmv3SIPkTTj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.hooli.zhihu.api.mapper" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\redhood\Documents\learn\dev\zhihu\src\main\java\com\hooli\zhihu\api\config" />
+      <recent name="C:\Users\redhood\Documents\learn\dev\zhihu\src\main\java\com\hooli\zhihu\api\common" />
+    </key>
+  </component>
+  <component name="RestServicesNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ZhihuApiApplication">
+    <configuration name="SpecialMapperTest.selectAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="zhihu" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hooli.zhihu.api.mapper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hooli.zhihu.api.mapper" />
+      <option name="MAIN_CLASS_NAME" value="com.hooli.zhihu.api.mapper.SpecialMapperTest" />
+      <option name="METHOD_NAME" value="selectAll" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZhihuApiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="zhihu" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hooli.zhihu.api.ZhihuApiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SpecialMapperTest.selectAll" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c5671591-f6c7-4dac-8f47-1634b6d2476b" name="Default Changelist" comment="" />
+      <created>1579093348705</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579093348705</updated>
+      <workItem from="1579093351302" duration="892000" />
+      <workItem from="1579094383922" duration="1394000" />
+      <workItem from="1579095791697" duration="5080000" />
+      <workItem from="1579137455623" duration="3074000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="310" y="171" key="#Custom_Plugin_Repositories" timestamp="1579094119710">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="310" y="171" key="#Custom_Plugin_Repositories/0.0.1536.864@0.0.1536.864" timestamp="1579094119710" />
+    <state x="310" y="171" key="#HTTP_Proxy" timestamp="1579094116628">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="310" y="171" key="#HTTP_Proxy/0.0.1536.864@0.0.1536.864" timestamp="1579094116628" />
+    <state x="2467" y="160" key="#com.intellij.ide.util.MemberChooser" timestamp="1579138846343">
+      <screen x="1920" y="0" width="1536" height="864" />
+    </state>
+    <state x="2467" y="160" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864/1920.0.1536.864@1920.0.1536.864" timestamp="1579138846343" />
+    <state x="2418" y="266" key="FileChooserDialogImpl" timestamp="1579141167067">
+      <screen x="1920" y="0" width="1536" height="864" />
+    </state>
+    <state x="2418" y="266" key="FileChooserDialogImpl/0.0.1536.864/1920.0.1536.864@1920.0.1536.864" timestamp="1579141167067" />
+    <state x="498" y="266" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1579095764152" />
+    <state width="1342" height="156" key="GridCell.Tab.0.bottom" timestamp="1579140537557">
+      <screen x="1920" y="0" width="1536" height="864" />
+    </state>
+    <state width="1342" height="156" key="GridCell.Tab.0.bottom/0.0.1536.864/1920.0.1536.864@1920.0.1536.864" timestamp="1579140537557" />
+    <state width="1342" height="200" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1579101276548" />
+    <state width="1342" height="156" key="GridCell.Tab.0.center" timestamp="1579140537557">
+      <screen x="1920" y="0" width="1536" height="864" />
+    </state>
+    <state width="1342" height="156" key="GridCell.Tab.0.center/0.0.1536.864/1920.0.1536.864@1920.0.1536.864" timestamp="1579140537557" />
+    <state width="1342" height="200" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1579101276548" />
+    <state width="1342" height="156" key="GridCell.Tab.0.left" timestamp="1579140537556">
+      <screen x="1920" y="0" width="1536" height="864" />
+    </state>
+    <state width="1342" height="156" key="GridCell.Tab.0.left/0.0.1536.864/1920.0.1536.864@1920.0.1536.864" timestamp="1579140537556" />
+    <state width="1342" height="200" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1579101276548" />
+    <state width="1342" height="156" key="GridCell.Tab.0.right" timestamp="1579140537557">
+      <screen x="1920" y="0" width="1536" height="864" />
+    </state>
+    <state width="1342" height="156" key="GridCell.Tab.0.right/0.0.1536.864/1920.0.1536.864@1920.0.1536.864" timestamp="1579140537557" />
+    <state width="1342" height="200" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1579101276548" />
+    <state width="1342" height="156" key="GridCell.Tab.1.bottom" timestamp="1579140537557">
+      <screen x="1920" y="0" width="1536" height="864" />
+    </state>
+    <state width="1342" height="156" key="GridCell.Tab.1.bottom/0.0.1536.864/1920.0.1536.864@1920.0.1536.864" timestamp="1579140537557" />
+    <state width="1342" height="200" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1579101276548" />
+    <state width="1342" height="156" key="GridCell.Tab.1.center" timestamp="1579140537557">
+      <screen x="1920" y="0" width="1536" height="864" />
+    </state>
+    <state width="1342" height="156" key="GridCell.Tab.1.center/0.0.1536.864/1920.0.1536.864@1920.0.1536.864" timestamp="1579140537557" />
+    <state width="1342" height="200" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1579101276548" />
+    <state width="1342" height="156" key="GridCell.Tab.1.left" timestamp="1579140537557">
+      <screen x="1920" y="0" width="1536" height="864" />
+    </state>
+    <state width="1342" height="156" key="GridCell.Tab.1.left/0.0.1536.864/1920.0.1536.864@1920.0.1536.864" timestamp="1579140537557" />
+    <state width="1342" height="200" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1579101276548" />
+    <state width="1342" height="156" key="GridCell.Tab.1.right" timestamp="1579140537557">
+      <screen x="1920" y="0" width="1536" height="864" />
+    </state>
+    <state width="1342" height="156" key="GridCell.Tab.1.right/0.0.1536.864/1920.0.1536.864@1920.0.1536.864" timestamp="1579140537557" />
+    <state width="1342" height="200" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1579101276548" />
+    <state x="250" y="156" width="996" height="708" key="SettingsEditor" timestamp="1579097020185">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="250" y="156" width="996" height="708" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1579097020185" />
+    <state x="2427" y="169" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1579137606271">
+      <screen x="1920" y="0" width="1536" height="864" />
+    </state>
+    <state x="2427" y="169" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.864/1920.0.1536.864@1920.0.1536.864" timestamp="1579137606271" />
+  </component>
+</project>

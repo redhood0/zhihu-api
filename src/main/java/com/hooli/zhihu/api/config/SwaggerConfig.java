@@ -26,7 +26,7 @@ public class SwaggerConfig {
         return new Docket(DocumentationType.SWAGGER_2)
                 .apiInfo(apiInfo())
                 .select()
-                .apis(RequestHandlerSelectors.basePackage("com.scs.zhihu.api.controller"))
+                .apis(RequestHandlerSelectors.basePackage("com.hooli.zhihu.api.controller"))
                 .paths(PathSelectors.any())
                 .build();
     }
@@ -35,7 +35,7 @@ public class SwaggerConfig {
         return new ApiInfoBuilder()
                 .title("知乎项目在线接口文档")
                 .description("swagger-bootstrap-ui")
-                .contact(new Contact("莫淇","https://github.com/mqxu","moqi1977@gmail.com"))
+                .contact(new Contact("赵乾","https://github.com/zq","robotman.top@gmail.com"))
                 .termsOfServiceUrl("http://localhost:8080/")
                 .version("1.0")
                 .build();

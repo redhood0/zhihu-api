@@ -26,7 +26,7 @@ public interface SpecialMapper {
      * 查询最新专题
      * @return
      */
-    @Select("SELECT * FROM t_special ORDER BY updated DESC LIMIT 0,4")
+    @Select("SELECT * FROM t_special ORDER BY updated DESC LIMIT 10,4")
     List<Special> selectRecent();
 
 
